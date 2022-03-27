@@ -15,10 +15,6 @@ public class Answer2 {
         int B = Integer.parseInt(st.nextToken());
         int C = Integer.parseInt(st.nextToken());
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 839ab063f624e8e433af186cea2746cec8cc283c
         if (C <= B) {
             System.out.println("-1");
         }
