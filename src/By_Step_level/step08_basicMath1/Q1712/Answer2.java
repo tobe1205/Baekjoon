@@ -15,6 +15,7 @@ public class Answer2 {
         int B = Integer.parseInt(st.nextToken());
         int C = Integer.parseInt(st.nextToken());
 
+
         if (C <= B) {
             System.out.println("-1");
         }
