@@ -15,6 +15,7 @@ public class Main {
             System.out.print("-1");
         } else {
             System.out.println((A / (C - B)) + 1);
+
         }
     }
 }
