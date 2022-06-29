@@ -28,5 +28,6 @@ public class Main {
             h -= 24;
         }
         System.out.println(h + " " + m);
+
     }
 }
