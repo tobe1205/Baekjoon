@@ -27,6 +27,7 @@ public class Main {
         if (h > 23) {
             h -= 24;
         }
+
         System.out.println(h + " " + m);
 
     }
